@@ -1,0 +1,12 @@
+{
+  "name": "node-team-work",
+  "version": "1.0.0",
+  "description": "Node Team Work grocery order and delivery API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
